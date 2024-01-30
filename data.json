@@ -8,8 +8,16 @@
         "clpValue": 900
     },
     {
+        "currency": "S&P500",
+        "clpValue": 900
+    },
+    {
         "currency": "Bitcoin",
         "clpValue": 17000000
+    },
+    {
+        "currency": "Etherium",
+        "clpValue": 12000000
     }
 ]
     
